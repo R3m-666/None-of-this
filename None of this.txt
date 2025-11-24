@@ -17,6 +17,7 @@
     </p>
     </b>
   </i>
+    <img scr="https://ts2.tc.mm.bing.net/th/id/OIP-C.gpQDOOYaYOk4__PZhbdw8QHaD1?rs=1&pid=ImgDetMain&o=7&rm=3" width=100>
  <b>
   <font color=white size=3>
     从这里开始，会类似于我的日记，如果我想起来这个网页，我会编辑并把狗屎一样的想法写在这<br>
@@ -29,6 +30,12 @@
 </center>
 </body>
 </html>
+
+
+
+
+
+
 
 
 
