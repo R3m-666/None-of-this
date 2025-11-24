@@ -14,7 +14,9 @@
     <font color=red size=5>我讨厌异性恋，讨厌女的，讨厌麻烦，讨厌自以为是的傻逼。我喜欢看杀人犯，枪击，残肢还有同性恋<br>
    如果我这么说出去，人们会说我是一个愚蠢的的小众比，我想说我与他们不同，这毫无说服力，我连现在都像在模仿!!! <br>
       如果你有机会浏览这个如白板一样狗屎的网站，我会很感动，这里包含了我所有的想法，感受，思考...大概吧<br>
-    <a href="https://music.163.com/#/playlist?id=13851651881">  <img src="https://ts2.tc.mm.bing.net/th/id/OIP-C.gpQDOOYaYOk4__PZhbdw8QHaD1?rs=1&pid=ImgDetMain&o=7&rm=3" width=100 height=100><br></a>
+    <a href="https://music.163.com/#/playlist?id=13851651881">
+      <font color=aliceblue size=2>我所拥有的爱❤...</a><br>
+      <img src="https://ts2.tc.mm.bing.net/th/id/OIP-C.gpQDOOYaYOk4__PZhbdw8QHaD1?rs=1&pid=ImgDetMain&o=7&rm=3" width=100 height=100><br>
     </p>
     </b>
   </i>
@@ -35,6 +37,9 @@
 </center>
 </body>
 </html>
+
+
+
 
 
 
