@@ -1,7 +1,7 @@
 <html>
 <head>
 <title>R3m_666</title>
-  <link rel="icon" img src="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8420ce1ea2bddbd80e1a59b20d" sizes="16x16">
+<link rel="profile" href="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8420ce1ea2bddbd80e1a59b20d">
 </head>
 <body bgcolor="black" text="white">
 <center>
@@ -54,3 +54,7 @@
     </p>
 </body>
 </html>
+
+
+
+
